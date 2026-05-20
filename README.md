@@ -12,7 +12,7 @@ The domains I keep coming back to are **energy markets, power systems, territori
 
 ## Research
 
-Earlier research includes a matheuristic for territorial design applied to microfinance institutions (with Roger Z. Ríos-Mercado and Diana Huerta-Muñoz), plus undergraduate work on p-median problems, GRASP metaheuristics, and large-scale routing. My undergraduate thesis received the **SMIO Best Undergraduate Thesis Award**.
+Earlier research includes a matheuristic for territorial design applied to microfinance institutions (with Roger Z. Ríos-Mercado and Diana Huerta-Muñoz), plus undergraduate work on p-median problems, GRASP metaheuristics, and large-scale routing. My undergraduate thesis received the **SMIO Best Undergraduate Thesis Award**. I have attended several different conferences, national and international, but the one I am most fond of was the Mixed Integer Programming Workshop South America 2025 in Viña del Mar, Chile.
 
 ## Background
 
