@@ -20,7 +20,7 @@ I studied **Software Engineering at FIME, UANL**, and have industry experience f
 
 ## Let's talk
 
-I'm always open to collaborating on optimization-heavy work — modeling, decomposition, energy systems, or research. The best problems are the ones that don't fit neatly into a linear model.
+I'm always open to collaborating on optimization-heavy work: modeling, decomposition, energy systems, or research. The best problems are the ones that don't fit neatly into a linear model.
 
 
 
