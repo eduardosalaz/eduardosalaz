@@ -8,7 +8,7 @@ Right now I'm a **Technical Account Manager at AMPL Optimization**, where I help
 
 My day-to-day sits at the intersection of mathematical programming and practical engineering: mixed-integer and nonlinear modeling, decomposition methods (column generation, Dantzig–Wolfe, branch-and-price), and reformulation techniques that sidestep Big-M and other modeling traps. Most of this happens in **AMPL and amplpy**, though I've spent plenty of time in **Julia (JuMP)** and with solvers like Gurobi, HiGHS, CPLEX, Knitro. I also have experience working with metaheuristics and efficient algorithmic design.
 
-The domains I keep coming back to are **energy markets, power systems, territorial design, bilevel problems, location science problems**: problems where the structure is rich enough to reward careful formulation.
+The domains I keep coming back to are **energy markets, power systems, territorial design, bilevel problems, location science problems**: problems where the structure is rich enough to reward careful formulation. I am attracted to interesting, hard problems, with a preference for applied optimization across any and all domains.
 
 ## Research
 
