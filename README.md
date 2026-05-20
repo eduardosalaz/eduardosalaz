@@ -16,7 +16,7 @@ Earlier research includes a matheuristic for territorial design applied to micro
 
 ## Background
 
-I studied **Software Engineering at FIME, UANL**, and have industry experience from Prolec GE (power systems and transformer manufacturing) and PepsiCo (revenue management: pricing and promotions).
+I studied **Software Engineering at FIME, UANL**, and have industry experience from Prolec GE (power systems and transformer manufacturing) and PepsiCo (revenue management: pricing and promotions). I also have a **Diploma in Energy Economics** from **ITAM**.
 
 ## Let's talk
 
