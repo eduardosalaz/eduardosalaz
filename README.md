@@ -2,7 +2,7 @@
 
 Operations researcher and optimization engineer. I build mathematical models for a wide variety of problems.
 
-Right now I'm a **Technical Account Manager at AMPL Optimization**, where I help teams model and solve large-scale optimization problems, and an **Optimization Consultant at Bravos Power**, working on day-ahead market models for North American power systems, with some work on our own modelling language package: Pyoframe. I also serve as a **Vocal on the board of the Mexican Society for Operations Research (SMIO, 2025–2027)**.
+Right now I'm a **Technical Account Manager at AMPL Optimization**, where I help teams model and solve large-scale optimization problems, and I also serve as a **Vocal on the board of the Mexican Society for Operations Research (SMIO, 2025–2027)**.
 
 ## What I work on
 
@@ -16,7 +16,7 @@ Earlier research includes a matheuristic for territorial design applied to micro
 
 ## Background
 
-I studied **Software Engineering at FIME, UANL**, and have industry experience from Prolec GE (power systems and transformer manufacturing) and PepsiCo (revenue management: pricing and promotions). I also have a **Diploma in Energy Economics** from **ITAM**.
+I studied **Software Engineering at FIME, UANL**, and have industry experience from Prolec GE (power systems and transformer manufacturing) and PepsiCo (revenue management: pricing and promotions). I also worked as an **Optimization Consultant at Bravos Power**, working on day-ahead market models for North American power systems, with some work on our own modelling language package: Pyoframe. I also have a **Diploma in Energy Economics** from **ITAM**.
 
 ## Let's talk
 
