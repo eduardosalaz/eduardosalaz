@@ -1,26 +1,47 @@
 # Hi, I'm Eduardo
 
-Operations researcher and optimization engineer. I build mathematical models for a wide variety of problems.
+Operations researcher and optimization engineer. I formulate and solve large-scale mathematical programs, and I care about the formulation at least as much as the solve.
 
-Right now I'm a **Technical Account Manager at AMPL Optimization**, where I help teams model and solve large-scale optimization problems, and I also serve as a **Vocal on the board of the Mexican Society for Operations Research (SMIO, 2025–2027)**.
+- **Academic Engagement Coordinator Europe and LATAM at AMPL Optimization**, working with universities and research groups that teach, model and solve large-scale optimization problems.
+- **Vocal on the board of the Mexican Society for Operations Research (SMIO)**, 2025 to 2027.
+- **Incoming master's student in the [MESIO](https://mesioupcub.masters.upc.edu/en) UPC-UB (Operations Research track)**, Barcelona.
 
 ## What I work on
 
-My day-to-day sits at the intersection of mathematical programming and practical engineering: mixed-integer and nonlinear modeling, decomposition methods (column generation, Dantzig–Wolfe, branch-and-price), and reformulation techniques that sidestep Big-M and other modeling traps. Most of this happens in **AMPL and amplpy**, though I've spent plenty of time in **Julia (JuMP)** and with solvers like Gurobi, HiGHS, CPLEX, Knitro. I also have experience working with metaheuristics and efficient algorithmic design.
+My day-to-day sits between mathematical programming and practical engineering: mixed-integer and nonlinear modeling, decomposition methods (Benders, column generation, Dantzig–Wolfe, branch-and-price), and reformulations that sidestep Big-M and similar traps. When the instances stop cooperating, metaheuristics and careful algorithmic design.
 
-The domains I keep coming back to are **energy markets, power systems, territorial design, bilevel problems, location science problems**: problems where the structure is rich enough to reward careful formulation. I am attracted to interesting, hard problems, with a preference for applied optimization across any and all domains.
+Mostly **AMPL**, with plenty of **Julia (JuMP)** and Python, driving Gurobi, HiGHS, CPLEX and Knitro.
+
+The domains I keep coming back to are **energy markets and power systems, territorial and districting design, location science, and bilevel programming**: problems whose structure is rich enough to reward careful formulation.
+
+## Things I build
+
+
+| Project | What it is |
+| --- | --- |
+| [optex](https://github.com/eduardosalaz/optex) | Elixir library for modeling and solving optimization problems |
+| [pyoframe](https://github.com/Bravos-Power/pyoframe) | Contributor. Python modeling library for large-scale models |
+| [Claude for AMPL Skill](https://github.com/ampl/claude-for-ampl) | Tooling that lets Claude write idiomatic AMPL |
+
+And more stuff.
 
 ## Research
 
-Earlier research includes a matheuristic for territorial design applied to microfinance institutions (with Roger Z. Ríos-Mercado and Diana Huerta-Muñoz), plus undergraduate work on p-median problems, GRASP metaheuristics, and large-scale routing. My undergraduate thesis received the **SMIO Best Undergraduate Thesis Award**. I have attended several different conferences, national and international, but the one I am most fond of is the Mixed Integer Programming Workshop South America 2025 in Viña del Mar, Chile.
+Current working papers and research lines:
+
+- Logic-based Benders decomposition with decision diagram oracles
+- Benders decomposition for the p-median problem
+- Side-constrained districting with an adapted BEAMR formulation
+- Linearized offspring coancestry for joint optimum contribution selection and mate allocation
+
+Earlier work includes a matheuristic for territorial design in microfinance institutions (with Roger Z. Ríos-Mercado and Diana Huerta-Muñoz) and undergraduate research on p-median problems, GRASP metaheuristics and large-scale routing. My undergraduate thesis received the **SMIO Best Undergraduate Thesis Award**.
+
+I have attended several national and international conferences. The one I am fondest of is the Mixed Integer Programming Workshop South America 2025 in Viña del Mar, Chile.
 
 ## Background
 
-I studied **Software Engineering at FIME, UANL**, and have industry experience from Prolec GE (power systems and transformer manufacturing) and PepsiCo (revenue management: pricing and promotions). I also worked as an **Optimization Consultant at Bravos Power**, working on day-ahead market models for North American power systems, with some work on our own modelling language package: Pyoframe. I also have a **Diploma in Energy Economics** from **ITAM**.
+**Software Engineering, FIME UANL.** **Diploma in Energy Economics, ITAM.** Industry experience at Prolec GE (power systems and transformer manufacturing), PepsiCo (revenue management: pricing and promotions), and Bravos Power, where I was an optimization consultant on day-ahead market models for North American power systems.
 
 ## Let's talk
 
-I'm always open to collaborating on optimization-heavy work: modeling, decomposition, energy systems, or research. The best problems are the ones that don't fit neatly into a linear model.
-
-
-
+I'm open to collaborating on optimization-heavy work: modeling, decomposition, energy systems, or research. The best problems are the ones that don't fit neatly into a linear model.
