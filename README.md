@@ -4,7 +4,7 @@ Operations researcher and optimization engineer. I formulate and solve large-sca
 
 - **Academic Engagement Coordinator Europe and LATAM at AMPL Optimization**, working with universities and research groups that teach, model and solve large-scale optimization problems.
 - **Vocal on the board of the Mexican Society for Operations Research (SMIO)**, 2025 to 2027.
-- **Incoming master's student in the [MESIO](https://mesioupcub.masters.upc.edu/en) UPC-UB (Operations Research track)**, Barcelona.
+- **Incoming master's student in the [Master's degree in Operations Research and Statistics](https://mesioupcub.masters.upc.edu/en) at UPC-UB (Operations Research track)**, Barcelona.
 
 ## What I work on
 
